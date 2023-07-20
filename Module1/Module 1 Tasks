@@ -1,3 +1,4 @@
+# Module 1 Tasks
 1. Create a file named "/root/myfile.doc" and store the location of the "/root" directory within it.
 2. Generate three files, "file1", "file2", and "file3", simultaneously in the "/root" directory.
 3. Store the current date in a file named "/date.txt".

@@ -1,6 +1,6 @@
 # Module 2 Readme
 
-This directory contains a script to solve a set of tasks. You can find the problem statements in the file named "Module 2 Tasks"To use the script, follow the instructions below:
+This directory contains a script to solve a set of tasks. You can find the problem statements in the file named "Module2 Tasks.md" or you can download the "Module2 Tasks.odt". To use the script, follow the instructions below:
 
 ## Getting Started
 

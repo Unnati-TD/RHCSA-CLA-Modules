@@ -15,7 +15,7 @@ Before using the script, ensure you have the following prerequisites:
 To download the script, run the following command in your terminal:
 
 ```bash
-wget -P https://raw.githubusercontent.com/Unnati-TD/RHCSA-CLA-Modules/main/Module8/UNNATI-RHCSA-CLA-MODULE8
+wget -P /usr/bin https://raw.githubusercontent.com/Unnati-TD/RHCSA-CLA-Modules/main/Module8/UNNATI-RHCSA-CLA-MODULE8
 ```
 
 ### Giving Execute Permission

@@ -6,7 +6,7 @@
 
 |**Sr. No.** |**Tasks** |
 | - | - |
-|1\. |<p>Create user named user1,create directory named  /direct1,change ownership of directory  /direct1 from root to user1 & give permission r owner of directory /direct1</p><p>-x to </p>|
+|1\. |<p>Create user named user1,create directory named  /direct1,change ownership of directory  /direct1 from root to user1 & give permission r-x to owner of directory /direct1</p>
 |2\. |Create user2 ,create directory named /direct2 ,change ownership of directory from root to user2 & give permission rwx to owner of directory /direct2|
 |3\. |<p>Create a directory /redhat with following specifications</p><p>owner = red1 with r-x permission </p><p>group = sales with rwx permission </p><p>sales group should have sale1 and sale2 users</p><p>myuser3 should be other for /redhat directory with no permissions</p>|
 |4\. |<p>Create a directory /lenovo with following specifications</p><p>owner = testuser with --x permission </p><p>group = builder with --x permission </p><p>builder group should have build1 and build2 users</p><p>myuser2 should be other for /redhat directory with no permissions</p>|
